@@ -1,0 +1,10 @@
+body{
+        background:#8ba987 url('http://hitskin.com/themes/16/64/75/i_background.jpg') no-repeat center center;
+        background-size:100% 100%;
+    }
+
+h1 { color: #369; }
+h2 { color: #369; }
+p  { color: black; }
+a, span { color: #B1251E; }
+div { color: rgb(71, 98, 176); }
